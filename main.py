@@ -119,4 +119,4 @@ def delete():
 	except:
 		conn.rollback()
 		return "error"
-	return "ok"ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	return "ok"sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
